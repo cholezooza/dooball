@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg", The Falcon and The Winter Soldier EP 1
+https://vod-th8.streammaster.co/vod/fw_2021_ep01_720.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg", The Falcon and The Winter Soldier EP 2
+https://vod-th8.streammaster.co/vod/fw_2021_ep02_720.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg", The Falcon and The Winter Soldier EP 3
+https://vod-th8.streammaster.co/vod/fw_2021_ep03_720.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg", The Falcon and The Winter Soldier EP 4
+https://vod-th5.streammaster.co/vod/fw_2021_ep04_720.mp4/playlist.m3u8
