@@ -5,7 +5,7 @@
           "url": "http://cholezooza.github.io/dooball/Premium_Series.w3u",          
           "groups": [
 
-   {
+{
 "name": "01.The Falcon and The Winter Soldier SSS 1",
           "author": "@WHOAMI",               
 "image": "https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg",
@@ -13,10 +13,12 @@
 "import": false
 },
 {
-"name":"Dark Crystal",
+"name":"02.Dark Crystal",
+"author":"@WHOAMI",
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/rdprcyoewjkwgosg0.jpg",
-"url":"https://doona.cf/dark-crystal.w3u
-"import":"false" },
+"url":"https://doona.cf/dark-crystal.w3u",
+"import":false
+},
           
 
    
