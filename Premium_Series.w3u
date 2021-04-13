@@ -6,7 +6,7 @@
           "groups": [
 
 {
-"name": "01.The Falcon and The Winter Soldier SSS 1",
+"name": "01.The Falcon and The Winter Soldier SS 1",
           "author": "@WHOAMI",               
 "image": "https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg",
 "url": "https://raw.githubusercontent.com/cholezooza/dooball/main/ThaFalcon.w3u",
@@ -18,6 +18,13 @@
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/rdprcyoewjkwgosg0.jpg",
 "url":"https://doona.cf/dark-crystal.w3u",
 "import":false
+},
+{
+"name": "03.Arrow  โคตรคนธนูมหากาฬ Season 1 พากย์ไทย",
+"image": "https://i.postimg.cc/HxkQJtqL/Arrow-SS-1.jpg",
+"url": "https://dl.dropbox.com/s/xq87qkftaegfc8c/arrow.w3u",
+"info":"movie24th",
+"import": false 
 },
           
 
