@@ -6,23 +6,30 @@
           "groups": [
 
 {
-"name": "01.The Falcon and The Winter Soldier SS 1",
+"name": "01-The Falcon and The Winter Soldier SS 1",
           "author": "@WHOAMI",               
 "image": "https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg",
 "url": "https://raw.githubusercontent.com/cholezooza/dooball/main/ThaFalcon.w3u",
 "import": false
 },
 {
-"name":"02.Dark Crystal",
+"name":"02-Dark Crystal",
 "author":"@WHOAMI",
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/rdprcyoewjkwgosg0.jpg",
 "url":"https://doona.cf/dark-crystal.w3u",
 "import":false
 },
 {
-"name": "03.Arrow  โคตรคนธนูมหากาฬ Season 1 พากย์ไทย",
+"name": "03-Arrow  โคตรคนธนูมหากาฬ Season 1 พากย์ไทย",
 "image": "https://i.postimg.cc/HxkQJtqL/Arrow-SS-1.jpg",
 "url": "https://dl.dropbox.com/s/xq87qkftaegfc8c/arrow.w3u",
+"info":"movie24th",
+"import": false 
+},
+}
+"name": "04-Snowpiercer SS 1 พากย์ไทย",
+"image": "https://movie24thai.com/wp-content/uploads/2020/08/Snowpiercer-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-2020-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+"url": "https://dl.dropbox.com/s/mzotaj94pvyoqex/Snowpiercer_2020.w3u",
 "info":"movie24th",
 "import": false 
 },
