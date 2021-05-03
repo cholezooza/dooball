@@ -7,7 +7,7 @@
 
 {
 "name": "01-The Falcon and The Winter Soldier SS 1",
-          "author": "@WHOAMI",               
+"author": "@WHOAMI",               
 "image": "https://bettopfivemovie.com/wp-content/uploads/2021/03/j_1612857548_6151-185x278.jpg",
 "url": "https://raw.githubusercontent.com/cholezooza/dooball/main/ThaFalcon.w3u",
 "import": false
@@ -33,7 +33,13 @@
 "info": "movie24th",
 "import": false 
 },
-          
+{
+"name": "06-คู่ไฟท์ไฝว้ผี - Lets Fight Ghost l",
+"author": "@Whoami Creator",                      
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/inqg1mcy9i8gc40c4.jpg",
+"url": "https://dl.dropbox.com/s/kdajzlrv6x5hmt7/Let_%20Fight_Ghost.w3u",
+"import": false
+},         
 
    
 ]
